@@ -1,0 +1,22 @@
+#include<stdio.h>
+#include<conio.h>  
+   
+ main(){	      
+ float dollors,rupees;
+printf("\n");
+printf("\n");    
+printf("The current value of Dollors in pakistani rupees is : 156.05\n");
+printf("\n");
+printf("\n");
+printf("\n");      
+printf("Enter any amount in Rupees : ");      
+scanf("%f",&rupees);
+dollors=rupees/156.05;
+printf("Amount in Dollors : %f \n",dollors);
+printf("\n");
+printf("\n");
+printf("\n");    
+printf(" MEHR ULLAH \n Roll number : 26");
+
+getch();
+}
